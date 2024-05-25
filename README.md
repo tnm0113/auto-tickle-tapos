@@ -8,6 +8,8 @@
 
     - `const TOTAL_TX = 1000 //change to number transaction you want`
 
+    - `await sleep(1000);//defaullt set 1000ms between each tickle, change as you wish`
+
 3. Install:
 
     - Open cmd and move on cmd to your folder include source
