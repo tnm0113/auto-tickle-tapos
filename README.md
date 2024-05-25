@@ -1,6 +1,6 @@
 ### How to use:
 
-1. Install nodejs and npm: [MacOS](https://nodejs.org/en/download/package-manager)[Window](https://phoenixnap.com/kb/install-node-js-npm-on-windows)
+1. Install nodejs and npm: [MacOS](https://nodejs.org/en/download/package-manager) or [Window](https://phoenixnap.com/kb/install-node-js-npm-on-windows)
 
 2. Download code and open file: `start.ts` and change your info:
 
