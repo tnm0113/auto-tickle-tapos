@@ -1,0 +1,29 @@
+{
+  "name": "auto-tickle-tapos",
+  "version": "1.0.0",
+  "description": "auto tickle tapos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node start.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tnm0113/auto-tickle-tapos.git"
+  },
+  "keywords": [
+    "aptos"
+  ],
+  "author": "tnm0113",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tnm0113/auto-tickle-tapos/issues"
+  },
+  "homepage": "https://github.com/tnm0113/auto-tickle-tapos#readme",
+  "dependencies": {
+    "@aptos-labs/ts-sdk": "^1.16.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
